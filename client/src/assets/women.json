@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://images.unsplash.com/photo-1581338834647-b0fb40704e21?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "name": "White Collared Top",
+    "price": "$24.99",
+    "keyword": "top"
+  },
+  {
+    "url":  "https://images.unsplash.com/photo-1545194828-a1cf868f1b2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "name": "Plaid Suit",
+    "price": "$110.99",
+    "keyword": "suit"
+  },
+  {
+    "url": "https://images.unsplash.com/photo-1564485377539-4af72d1f6a2f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80a",
+    "name": "Fall Coat",
+    "price": "$88.99",
+    "keyword": "coat"
+  },
+  {
+    "url": "https://images.unsplash.com/photo-1598992616139-5ed3d0fa4eeb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=778&q=80",
+    "name": "White Long-Sleeve Top",
+    "price": "$50.99",
+    "keyword": "top"
+  },
+  {
+    "url": "https://images.unsplash.com/photo-1581044777550-4cfa60707c03?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80",
+    "name": "Pink Puff Sleeve Dress",
+    "price": "$92.99",
+    "keyword": "dress"
+  },
+  {
+    "url": "https://images.unsplash.com/photo-1597423913783-c53b15744c83?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "name": "Straight Fit Ankle Jeans",
+    "price": "$49.99",
+    "keyword": "pants"
+  },
+  {
+    "url": "https://images.unsplash.com/photo-1627082110973-74cbabcd52d6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
+    "name": "Straw Sun Hat",
+    "price": "$14.99",
+    "keyword": "accessories"
+  },
+  {
+    "url": "https://images.unsplash.com/photo-1551854838-212c50b4c184?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "name": "Brown Pants",
+    "price": "$35.99",
+    "keyword": "pants"
+  }
+]
